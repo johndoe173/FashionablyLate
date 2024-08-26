@@ -8,7 +8,7 @@
 
 <div class="contact-form__content">
   <div class="contact-form__heading">
-    <h2>お問い合わせ</h2>
+    <h2>Contact</h2>
   </div>
   <form class="form" action="contacts/confirm" method="post">
     @csrf
